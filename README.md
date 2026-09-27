@@ -1,4 +1,4 @@
 # demo
 this is my first repository
 <br>
-author= shashwat sharma phukan
+author= shashwat sharma phukan iit roorkee 
